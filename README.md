@@ -18,7 +18,7 @@ streamlit run https://raw.githubusercontent.com/streamlit/demo-self-driving/mast
 Please ask in the [Streamlit community](https://discuss.streamlit.io).
 
 
-=======
+
 # demo-self-driving-streamlit
 Demonstrates the Udacity self-driving-car dataset and YOLO object detection into an interactive Streamlit app.
 
